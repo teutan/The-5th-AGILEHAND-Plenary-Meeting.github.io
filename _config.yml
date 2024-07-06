@@ -4,11 +4,11 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: The 5th AGILEHAND Plenary Meeting
+subtitle: "Tokyo University of Technology"
+description: "Tokyo University of Technology"
+keywords: AGILEHAND
+timezone: Asia/Tokyo
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
