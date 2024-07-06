@@ -4,8 +4,8 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: The 5th AGILEHAND Plenary Meeting
-subtitle: "Tokyo University of Technology"
+title: "The 5th AGILEHAND Plenary Meeting"
+subtitle: "December 2-6, 2024"
 description: "Tokyo University of Technology"
 keywords: AGILEHAND
 timezone: Asia/Tokyo
@@ -17,8 +17,7 @@ encoding: "utf-8"
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
+location: Tokyo, JP
 email: chumpma@gmail.com
 
 # ---------------- #
